@@ -2,7 +2,7 @@
  * @Author: surewinT 840325271@qq.com
  * @Date: 2022-05-22 21:49:13
  * @LastEditors: surewinT 840325271@qq.com
- * @LastEditTime: 2022-05-23 21:26:07
+ * @LastEditTime: 2022-05-23 21:57:04
  * @Description: 主界面-布局
 -->
 
@@ -51,7 +51,7 @@ export default {
   watch: {},
   methods: {
     clickFooter() {
-      window.open("");
+      window.open("https://github.com/surewinT/vue-multi-page");
     },
 
     clickMenu(menu) {
@@ -97,6 +97,9 @@ export default {
     cursor: pointer;
     border-bottom: 1px solid;
     margin: 0 10px;
+    &:hover {
+      color: #409eff;
+    }
   }
 }
 
