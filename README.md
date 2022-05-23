@@ -1,3 +1,10 @@
+<!--
+ * @Author: surewinT 840325271@qq.com
+ * @Date: 2022-05-23 21:48:47
+ * @LastEditors: surewinT 840325271@qq.com
+ * @LastEditTime: 2022-05-23 22:23:29
+ * @Description: 
+-->
 
 # vue-multi-page
 
@@ -36,4 +43,4 @@ npm run serve
 ```
 ## 相关文章
 
-[【项目实践】vue-cli多页面应用实践，实现组件预览](https://juejin.cn/user/96412756096424)
+[【项目实践】vue-cli多页面应用实践，实现组件预览](https://juejin.cn/post/7100932066539208711)
